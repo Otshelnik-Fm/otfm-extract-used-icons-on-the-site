@@ -20,7 +20,7 @@
 
  */
 
-// Run in admin area: site.com/?euifa=process
+// Run in admin area: site.com/wp-admin/?euifa=process
 
 if ( ! defined( 'ABSPATH' ) )
     exit;
