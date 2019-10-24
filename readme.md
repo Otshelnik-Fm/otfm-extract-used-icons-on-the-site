@@ -20,7 +20,7 @@ WordPress плагин.
 По завершению работы вы в admin notice получите ссылку на скачивание получившегося .json файла.  
 Скачиваете файл по ссылке и плагин можно отключить.  
 
-Подробное использование читайте скоро [здесь](https://otshelnik-fm.ru/?p=5934&utm_source=free-plugin&utm_medium=github&utm_campaign=otfm-extract-used-icons-on-the-site&utm_content=github-com&utm_term=post-5934) (публикация еще пишется)  
+Подробное использование читайте [здесь](https://otshelnik-fm.ru/?p=5934&utm_source=free-plugin&utm_medium=github&utm_campaign=otfm-extract-used-icons-on-the-site&utm_content=github-com&utm_term=post-5934)  
 
 ------------------------------
 
