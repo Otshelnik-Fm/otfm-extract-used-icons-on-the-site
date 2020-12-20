@@ -105,6 +105,8 @@ class IcoToJsonGenerator {
             $this->recall_path . '/add-on/publicpost/admin/assets/style.css',
             $this->recall_path . '/assets/rcl-awesome/rcl-awesome.css',
             $this->recall_path . '/assets/rcl-awesome/rcl-awesome.min.css',
+            $this->recall_path . '/assets/rcl-awesome/fonts/rcl-awesome.svg',
+            $this->recall_path . '/assets/rcl-awesome/iconpicker/iconpicker.js',
         ];
 
         foreach ( $datas as $file ) {

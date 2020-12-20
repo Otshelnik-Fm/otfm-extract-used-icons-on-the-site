@@ -4,7 +4,7 @@
   Plugin Name:    OTFM Extract Used Icons On The Site
   Plugin URI:     https://otshelnik-fm.ru/?p=5934
   Description:    Extract FontAwesome used icons on the site
-  Version:        0.1
+  Version:        0.2
   Author:         Otshelnik-Fm (Wladimir Druzhaev)
   Author URI:     https://otshelnik-fm.ru/
   Text Domain:    otfm-extract-used-icons-on-the-site
